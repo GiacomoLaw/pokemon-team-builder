@@ -1,0 +1,7 @@
+name: "pokemon-team-display"
+output_dir: "."
+navbar:
+  title: "My Pokemon Team"
+  left:
+    - text: "Home"
+      href: index.html
